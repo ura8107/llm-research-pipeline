@@ -16,6 +16,8 @@ Use LLMs to make all of your research-related tasks lightning fast!
 - VSCode or Cursor
 - Claude Code CLI (I highly recommend to use CLI, instead of IDE extention for usability)
 - Codex CLI
+- terminal of your choice (I prefer Ghostty)
+- mo (markdown viewer)
 
 ## Resources
 

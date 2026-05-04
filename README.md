@@ -19,6 +19,7 @@ Use LLMs to make all of your research-related tasks lightning fast!
 - terminal of your choice (I prefer Ghostty)
 - mo (markdown viewer)
 
+
 ## Resources
 
 | HP                                                                            | Desc                                                                   |
